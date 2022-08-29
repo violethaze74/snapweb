@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "aliasify": "~2.1.0",
-    "backbone": "~1.1.2",
+    "backbone": "~1.4.1",
     "backbone.marionette": "~2.4.1",
     "backbone.radio": "^0.9.0",
     "handlebars": "~3.0.0",
